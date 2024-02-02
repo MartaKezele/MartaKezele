@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartaKezele
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning Kotlin and React
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marta-kezele)
+- 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/marta-kezele)
 
 ## College projects
 | Semester | Repository                                                 |                   Course                   |
