@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartaKezele
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning Kotlin and React
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/marta-kezele)
 
 ## College projects
