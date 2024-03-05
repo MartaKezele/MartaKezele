@@ -6,6 +6,7 @@
 ## College projects
 | Semester | Repository                                                 |                   Course                   |
 |----------|------------------------------------------------------------|:------------------------------------------:|
+| 6th      | [Personal finance tracker](https://github.com/MartaKezele/wherewithal)  | Graduation project |
 | 6th      | [Nft market tracking app](https://github.com/MartaKezele/nft-market-tracking)        | Interoperability of information systems |
 | 5th      | [Nasa app](https://github.com/MartaKezele/nasa-app)        | Application development for mobile devices |
 | 5th      | [Backgammon](https://github.com/MartaKezele/backgammon)    | Java programming 2                         |
